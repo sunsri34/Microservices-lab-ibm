@@ -1,0 +1,4 @@
+org/exampledriven/eureka/customer/shared/CustomerServiceFeignClientFallback.class
+org/exampledriven/eureka/customer/shared/CustomerServiceFeignClient.class
+org/exampledriven/eureka/customer/shared/Customer.class
+org/exampledriven/eureka/customer/shared/CustomerService.class

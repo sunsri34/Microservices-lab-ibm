@@ -1,0 +1,4 @@
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-interface/src/main/java/org/exampledriven/eureka/customer/shared/CustomerService.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-interface/src/main/java/org/exampledriven/eureka/customer/shared/Customer.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-interface/src/main/java/org/exampledriven/eureka/customer/shared/CustomerServiceFeignClient.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-interface/src/main/java/org/exampledriven/eureka/customer/shared/CustomerServiceFeignClientFallback.java

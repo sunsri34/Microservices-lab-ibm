@@ -1,0 +1,6 @@
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/client/CustomerServiceRestTemplateClient.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/controller/CustomerFeignController.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/controller/CustomerRestTemplateController.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/Application.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/controller/MessageWrapper.java
+/Users/sunsrieinnan/Downloads/microservices-ibm-master/samples/spring-cloud-eureka-example/customer-client-service/src/main/java/org/exampledriven/eureka/customer/shared/client/Config.java
